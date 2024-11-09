@@ -1,0 +1,48 @@
+//chep 6 to 9
+//question no 6
+// let number = 15; 
+// let add = number + 5;
+// let subtract = number - 5;
+// let multiply = number * 5;
+// let divide = number / 5;
+// document.write("Number:", number ,"<br>", "Addition:", add ,"<br>"," Subtraction:", subtract, 
+//   "<br>"," Multiplication:", multiply, '<br>', 'Division:', divide);
+
+//question no 7
+//  let a = 2;
+//  let b=1;
+//  let result = --a - --b + ++b + b--;
+//  --a;
+//  --b;
+//  ++b;
+//  b--;
+//  console.log("a is " , a);
+//  console.log("b is " , b);
+//  console.log("result is " , result);
+
+//question no 8
+// let name = prompt("enter your name");
+// alert("congratulations !!");
+ 
+//question no 9
+// let number = prompt("enter a number" , "5");
+// for (let i = 1 ; i<=10 ; i++){
+//  console.log(number , "x" , i , "=" , number*i);   
+// }
+
+ //question 10
+// console.log("subject total marks obtaiend marks percentage");
+// let firstsubject = prompt("enter your subject");
+// let secondsubject = prompt("enter your first subject");
+// let thirdsubject = prompt("enter your second subject");
+// let totalmarks = prompt("\t\t\t\t\t enter your total marks");
+// let obtmarks1 = prompt("enter your first subject marks");
+// let obtmarks2 = prompt("enter you second subject marks");
+// let obtmarks3 = prompt("enter your  subject marks");
+// console.log(firstsubject , "      " +totalmarks , "     " , "    " , obtmarks1 , "    " +obtmarks1/totalmarks*100 +"%" );
+// console.log(firstsubject , "      " +totalmarks , "     " , "    " , obtmarks1 , "    " +obtmarks1/totalmarks*100 +"%" );
+// console.log(firstsubject , "      " +totalmarks , "     " , "    " , obtmarks1 , "    " +obtmarks1/totalmarks*100 +"%" );
+// let sum= totalmarks*3;
+// let totalObtained= obtmarks1+obtmarks2+obtmarks3;
+// let totalperc = totalObtained/sum*100;
+// console.log("      "+sum + "   "+totalObtained+"    "+totalperc+"%");
