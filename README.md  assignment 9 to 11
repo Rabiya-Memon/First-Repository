@@ -1,0 +1,170 @@
+/question 1
+// let city = prompt("Enter a city");
+// if(city == "karachi" || city == "Karachi" || city == "KARACHI"){
+// alert("welcome to city of lights");
+// }
+// else (alert("welcome to" + city));
+ 
+// let gender = prompt("Enter your gender");
+// if(gender == "male"){
+//     alert("asslam o aliakum sir");
+// }
+// else if(gender == "female"){
+//     alert("asslam o aliakum mam");
+// }
+// else(alert("invalid gender"));
+
+//question no 3
+// let color = prompt("enter a signal color");
+// if(color == "red"){
+//     alert("stop the signal");
+// }
+// else if(color == "yellow"){
+//     alert("ready to move");
+// }
+// else if(color == "red"){
+//     alert("move now");
+// }
+ 
+//question no 4
+// let currentfuel = prompt("enter a remening feul in car(in liters)");
+// if(currentfuel < 0.25){
+//     alert("please refill the feul in your car");
+// }
+
+//question no 5
+     //a
+// var a = 4;
+// if(++a === 5){
+//     alert("given condition for variable a is true");
+// }
+     //b
+// var b = 82;
+// if(b++ === 83){
+//     alert("given condition for variable b is true");
+// }
+     //c
+// var c = 12;
+// if(c++ === 13){
+//     alert('condition 1 is true');
+// }
+// if (c === 13){
+//     alert("condition 2 is true");
+// }
+// if (++c < 14){
+//     alert("conition 3 is true");
+// }
+// if(c === 14){
+//     alert("condition 4 is true");
+// }
+   //d
+// var materialcost = 20000;
+// var laborcost = 2000;
+// var totalcost = materialcost + laborcost;
+// if(totalcost === laborcost + materialcost){
+//     alert("the cost equals");
+// } 
+   //e
+//    if(true){
+//     alert("true");
+//    }
+//   if(false){
+// alert("false");
+//    }
+
+    //f
+    // if("car" < "cat"){
+    //     alert("car is smaller than cat");
+    // }
+
+    //question no 6
+    // document.write("MARKS SHEET <br>");
+    // let totalmarks = prompt("enter a total marks");
+    // let firstsubject = parseInt(prompt("enter your first subject marks"));
+    // let secondsubject = parseInt(prompt("enter you second subject marks"));
+    // let thirdsubject = parseInt(prompt("enter your third subject marks"));
+
+    // document.write("Total Marks :" + totalmarks + "<br>");
+
+    // let marksobtained = firstsubject + secondsubject + thirdsubject;
+    // document.write("Marks Obtained :" + marksobtained + "<br>");
+    // let percentage = marksobtained / totalmarks * 100;
+    // document.write("percentage : " + percentage + "%" + "<br>");
+
+    // if(percentage >= 80){
+    //     document.write("Grade : A+ <br>");
+    //     document.write("Remarks : Excellent");
+    // }
+    // else if(percentage >= 70){
+    //     document.write("Grade : A <br>");
+    //     document.write("Remarks : Good");
+    // }
+    // else if(percentage >= 60){
+    //     document.write("Grade : B <br>");
+    //     document.write("Remarks : You need to inprove");
+    // }
+    // else if(percentage < 60){
+    //     document.write("fail <br>");
+    //     document.write("Remarks : Sorry");
+    // }
+    
+    //question no 7
+    // const secretnumber = 7;
+    // const guess = prompt("guess the secret number between (1 and 10)");
+    // if(guess === secretnumber){
+    //     alert("Bingo! Correct");
+    // }
+    // else if(guess + 1 === secretnumber){
+    //     alert("Close enough to the correct answer");
+    // }
+    // else{
+    //     "wrong guess try again!"
+    // }
+
+    //question no 8
+    // let num = prompt("enter a number");
+    // if(num%2!=0){
+    //     alert ("THE NUMBER CAN BE DEVIDIBLE BY 3");
+    // }
+
+//question no 9
+// let num = prompt("enter a number");
+// if(num%2==0){
+//     alert("The number is even");
+// }
+// else if(num%2!=0){
+//     alert("The number is odd");
+// }
+
+//quetion no 10
+// let temperature =prompt("enter a current temperature of your area");
+// if(temperature > 40){
+//     console.log("its too hot outside");
+// }
+// else if(temperature > 30){
+//     console.log(" today's weather is normal");
+// }
+// else if(temperature > 20){
+//     console.log("Today's weather is cool");
+// }
+// else if(temperature > 10){
+//     console.log("It's to cold");
+// }
+
+//question  no 11
+// let num1 = parseInt(prompt("Enter first number:"));
+// let num2 = parseInt(prompt("Enter second number:"));
+// let operation = prompt("Enter operator:\n + \n - \n * \n % \n /");
+
+// if (operation === "+") {
+//   document.write(num1 + num2);
+// } else if (operation === "-") {
+//   document.write(num1 - num2);
+// } else if (operation === "*") {
+//   document.write(num1 * num2);
+// } else if (operation === "/")
+//      document.write(num1 /num2);
+//   else if(operation==="%"){
+//             document.write(operation=="%")
+//         }
+     
